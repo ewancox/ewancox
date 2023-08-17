@@ -1,0 +1,12 @@
+packages=(
+    #find more packages by searching for them here: https://formulae.brew.sh
+    "--cask visual-studio-code"
+    "git"
+    "tree"
+    "bash"
+    "nvm"
+)
+
+for version in ${packages[@]}; do
+#check the version of each package we installed above.
+done
